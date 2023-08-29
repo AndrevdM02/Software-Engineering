@@ -1,0 +1,149 @@
+JanMouton 1013
+	Monday:
+		10:
+			ComputerScience 244
+			Willem
+		11:
+			ComputerScience 345
+			Lynette
+		12:
+			MathStats 245
+			Mostert
+	Tuesday:
+		9:
+			ComputerScience 244
+			Willem
+	Wednesday:
+		9:
+			ComputerScience 244
+			Willem
+		10:
+			MathStats 245
+			Mostert
+		15:
+			ScienceInContext 114
+			Corne
+	Thursday:
+		8:
+			ComputerScience 244
+			Willem
+		9:
+			Arts 144
+			Louis
+		10:
+			Physics 244
+			Matthew
+		11:
+			MathStats 246
+			Ace
+		15:
+			Music 154
+			Dirk
+	Friday:
+		8:
+			ComputerScience 244
+			Willem
+		9:
+			Arts 144
+			Louis
+		10:
+			Physics 244
+			Matthew
+		11:
+			ScienceInContext 114
+			Corne
+		12:
+			Music 154
+			Dirk
+		15:
+			MathStats 246
+			Ace
+JanMouton 2010
+MS 1005
+NargaH 1001
+	Monday:
+		10:
+			Arts 144
+			Louis
+		13:
+			Music 154
+			Dirk
+	Wednesday:
+		9:
+			Arts 144
+			Louis
+		10:
+			Music 154
+			Dirk
+	Friday:
+		8:
+			ComputerScience 345
+			Lynette
+NargaB 2002
+	Monday:
+		14:
+			Physics 244
+			Matthew
+		15:
+			ScienceInContext 114
+			Corne
+	Tuesday:
+		8:
+			Arts 144
+			Louis
+		9:
+			Music 154
+			Dirk
+		10:
+			ScienceInContext 114
+			Corne
+		12:
+			Physics 244
+			Matthew
+	Wednesday:
+		12:
+			Physics 244
+			Matthew
+	Thursday:
+		10:
+			ScienceInContext 114
+			Corne
+NargaA 2001
+NargaD 1004
+GeneralEngineering 5007
+	Monday:
+		8:
+			ComputerScience 344
+			Bernd
+		10:
+			ComputerScience 214
+			Lynette
+	Tuesday:
+		11:
+			ComputerScience 344
+			Bernd
+		12:
+			ComputerScience 214
+			Lynette
+	Wednesday:
+		10:
+			ComputerScience 344
+			Bernd
+		12:
+			ComputerScience 214
+			Lynette
+	Thursday:
+		10:
+			ComputerScience 214
+			Lynette
+	Friday:
+		10:
+			ComputerScience 344
+			Bernd
+		12:
+			ComputerScience 214
+			Lynette
+VanDerSter 2105
+MusicRoom 1005
+Arts 3006
+Could not assign venue to ComputerScience 344 Thursday

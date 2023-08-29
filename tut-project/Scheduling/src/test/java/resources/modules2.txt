@@ -1,0 +1,4 @@
+Willem ComputerScience 244 100 Monday 10 11 12 Tuesday 9 13 14 Wednesday 9 15 Thursday 8 Friday 8
+Mostert Stats 245 40 Monday 8 10 12 Tuesday Wednesday 9 10 11 12 13 Thursday Friday
+Ace Stats 246 60 Monday Tuesday Wednesday Thursday 11 12 Friday 15
+Lynette ComputerScience 345 50 Monday 13 Tuesday Wednesday Thursday Friday 8

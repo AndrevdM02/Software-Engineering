@@ -1,0 +1,11 @@
+JanMouton 2010
+	Monday:
+		12:
+			ComputerScience 244
+			Willem
+Could not assign venue to ComputerScience 244 Tuesday
+Could not assign venue to ComputerScience 244 Wednesday
+Could not assign venue to ComputerScience 244 Thursday
+Could not assign venue to ComputerScience 244 Friday
+Could not assign venue to ComputerScience 345 Monday
+Could not assign venue to ComputerScience 345 Friday
