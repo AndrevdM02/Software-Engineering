@@ -1,2 +1,0 @@
-Willem ComputerScience 244 100 Monday 10 11 12 Tuesday 9 13 14 Wednesday 9 15 Thursday 8 Friday 8
-Lynette ComputerScience 345 50 Monday 13 Tuesday Wednesday Thursday Friday 8

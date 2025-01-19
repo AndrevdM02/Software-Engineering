@@ -1,4 +1,0 @@
-JanMouton 1013 100 Monday 10 11 12 Tuesday 9 Wednesday 9 10 15 Thursday 8 9 10 11 12 13 14 15 Friday 8 9 10 11 12 13 14 15
-JanMouton 2010 100 Monday 12 Tuesday Wednesday Thursday Friday
-MS 1005 10 Monday Tuesday Wednesday 11 Thursday Friday 11 14 15 
-NargaH 1001 100 Monday 10 11 13 Tuesday Wednesday 9 10 15 Thursday Friday 8
