@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "888356628538",
+    "project_id": "adrastea-bank",
+    "storage_bucket": "adrastea-bank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888356628538:android:b72a87803f9c1e7f5e2d03",
+        "android_client_info": {
+          "package_name": "com.example.frictionless_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888356628538-kmg16ebh02b7168b6gg9ckbuno56uuo0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7O6AUklQ2xkFe6tawjuvZu8K2MGcV3FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888356628538-kmg16ebh02b7168b6gg9ckbuno56uuo0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,630 @@
+JanMouton 1013
+	Monday:
+		10:
+			ComputerScience 244
+			Willem
+		11:
+			ComputerScience 345
+			Lynette
+		12:
+			MathStats 245
+			Mostert
+	Tuesday:
+		9:
+			ComputerScience 244
+			Willem
+	Wednesday:
+		9:
+			ComputerScience 244
+			Willem
+		10:
+			MathStats 245
+			Mostert
+		15:
+			ScienceInContext 114
+			Corne
+	Thursday:
+		8:
+			ComputerScience 244
+			Willem
+		9:
+			Arts 144
+			Louis
+		10:
+			Physics 244
+			Matthew
+		11:
+			MathStats 246
+			Ace
+		12:
+			AppliedMaths 341
+			Liam
+		13:
+			Music 278
+			Sharien
+		14:
+			DataScience 141
+			Gunther
+		15:
+			Music 154
+			Dirk
+	Friday:
+		8:
+			ComputerScience 244
+			Willem
+		9:
+			Arts 144
+			Louis
+		10:
+			Physics 244
+			Matthew
+		11:
+			ScienceInContext 114
+			Corne
+		12:
+			Music 154
+			Dirk
+		13:
+			Music 278
+			Sharien
+		14:
+			DataScience 141
+			Gunther
+		15:
+			MathStats 246
+			Ace
+________________________________________________________________________________________________________
+JanMouton 2010
+	Monday:
+		12:
+			ComputerScience 343
+			Matthew
+________________________________________________________________________________________________________
+MS 1005
+	Venue has not been assigned any lecture.
+________________________________________________________________________________________________________
+NargaH 1001
+	Monday:
+		10:
+			Arts 144
+			Louis
+		11:
+			Music 278
+			Sharien
+		13:
+			Music 154
+			Dirk
+	Wednesday:
+		9:
+			Arts 144
+			Louis
+		10:
+			Music 154
+			Dirk
+		15:
+			ComputerScience 343
+			Matthew
+	Friday:
+		8:
+			AppliedMaths 341
+			Liam
+________________________________________________________________________________________________________
+NargaB 2002
+	Monday:
+		8:
+			AppliedMaths 341
+			Liam
+		9:
+			Music 345
+			Lynnette
+		10:
+			DataScience 141
+			Gunther
+		12:
+			AppliedMaths 314
+			Liam
+		14:
+			Physics 244
+			Matthew
+		15:
+			ScienceInContext 114
+			Corne
+		16:
+			Music 218
+			Sharien
+	Tuesday:
+		8:
+			Arts 144
+			Louis
+		9:
+			Music 154
+			Dirk
+		10:
+			ScienceInContext 114
+			Corne
+		11:
+			DataScience 141
+			Gunther
+		12:
+			Physics 244
+			Matthew
+		13:
+			Music 278
+			Sharien
+	Wednesday:
+		10:
+			AppliedMaths 341
+			Liam
+		11:
+			DataScience 141
+			Gunther
+		12:
+			Physics 244
+			Matthew
+		13:
+			Music 278
+			Sharien
+		14:
+			Arts 114
+			Louis
+		15:
+			Music 345
+			Lynnette
+		16:
+			AppliedMaths 314
+			Liam
+	Thursday:
+		10:
+			Music 345
+			Lynnette
+		11:
+			ScienceInContext 114
+			Corne
+		12:
+			Music 218
+			Sharien
+	Friday:
+		8:
+			Music 345
+			Lynnette
+		9:
+			AppliedMaths 314
+			Liam
+		10:
+			DataScience 314
+			Gunther
+		11:
+			Music 218
+			Sharien
+________________________________________________________________________________________________________
+NargaA 2001
+	Monday:
+		12:
+			Music 315
+			Lynnette
+	Tuesday:
+		8:
+			AppliedMaths 341
+			Liam
+		9:
+			AppliedMaths 314
+			Liam
+		10:
+			Music 345
+			Lynnette
+		11:
+			Music 218
+			Sharien
+		12:
+			DataScience 314
+			Gunther
+	Wednesday:
+		11:
+			Music 218
+			Sharien
+		16:
+			Music 315
+			Lynnette
+	Thursday:
+		8:
+			Music 315
+			Lynnette
+		15:
+			DataScience 314
+			Gunther
+		16:
+			Arts 114
+			Louis
+	Friday:
+		10:
+			Music 315
+			Lynnette
+		13:
+			ScienceInContext 144
+			Corne
+		14:
+			Arts 114
+			Louis
+________________________________________________________________________________________________________
+NargaD 1004
+	Venue has not been assigned any lecture.
+________________________________________________________________________________________________________
+GeneralEngineering 5007
+	Monday:
+		8:
+			ComputerScience 344
+			Bernd
+		9:
+			Mathematics 244
+			Wilbert
+		10:
+			BusinessManagement 315
+			Suzanne
+		15:
+			ComputerScience 214
+			Lynette
+		16:
+			Accounting 154
+			Juan
+	Tuesday:
+		11:
+			ComputerScience 344
+			Bernd
+		12:
+			ComputerScience 214
+			Lynette
+		13:
+			SportScience 134
+			Divan
+		15:
+			Accounting 154
+			Juan
+		16:
+			ComputerScience 343
+			Matthew
+	Wednesday:
+		10:
+			ComputerScience 344
+			Bernd
+		12:
+			ComputerScience 214
+			Lynette
+		13:
+			BusinessManagement 315
+			Suzanne
+		14:
+			OperationsResearch 214
+			Neil
+		15:
+			Mathematics 244
+			Wilbert
+	Thursday:
+		8:
+			OperationsResearch 214
+			Neil
+		9:
+			Accounting 154
+			Juan
+		10:
+			ComputerScience 214
+			Lynette
+		14:
+			BusinessManagement 315
+			Suzanne
+		15:
+			ComputerScience 343
+			Matthew
+		16:
+			Mathematics 244
+			Wilbert
+	Friday:
+		10:
+			ComputerScience 344
+			Bernd
+		11:
+			Accounting 154
+			Juan
+		12:
+			ComputerScience 214
+			Lynette
+		13:
+			OperationsResearch 214
+			Neil
+		14:
+			ComputerScience 343
+			Matthew
+		15:
+			BusinessManagement 315
+			Suzanne
+		16:
+			Mathematics 144
+			Tiaan
+________________________________________________________________________________________________________
+VanDerSter 2105
+	Monday:
+		8:
+			Music 114
+			Dirk
+		9:
+			SportScience 345
+			James
+		10:
+			SportScience 134
+			Divan
+		15:
+			OperationsResearch 214
+			Neil
+		16:
+			ProbabiltyandStatistics 125
+			Dieter
+	Tuesday:
+		11:
+			SportScience 345
+			James
+		12:
+			BusinessManagement 315
+			Suzanne
+		14:
+			SportScience 214
+			Lanie
+		15:
+			OperationsResearch 214
+			Neil
+		16:
+			ProbabiltyandStatistics 125
+			Dieter
+	Wednesday:
+		8:
+			ComputerScience 313
+			Emile
+		9:
+			SportScience 345
+			James
+	Thursday:
+		8:
+			SportScience 345
+			James
+		9:
+			SportScience 134
+			Divan
+		10:
+			ProbabiltyandStatistics 125
+			Dieter
+		11:
+			BusinessManagement 343
+			Suzanne
+		12:
+			OperationsResearch 244
+			Neil
+		13:
+			SportScience 214
+			Lanie
+		14:
+			ComputerScience 414
+			Matthew
+		15:
+			Physics 224
+			Matthew
+		16:
+			ComputerScience 313
+			Emile
+	Friday:
+		9:
+			ProbabiltyandStatistics 125
+			Dieter
+		11:
+			OperationsResearch 244
+			Neil
+		15:
+			SportScience 214
+			Lanie
+		16:
+			SportScience 134
+			Divan
+________________________________________________________________________________________________________
+MusicRoom 1005
+	Tuesday:
+		12:
+			Music 315
+			Lynnette
+		15:
+			Arts 114
+			Louis
+		16:
+			Music 114
+			Dirk
+	Wednesday:
+		8:
+			Music 114
+			Dirk
+________________________________________________________________________________________________________
+Arts 3006
+	Venue has not been assigned any lecture.
+________________________________________________________________________________________________________
+GeneralEngineering 406
+	Monday:
+		13:
+			SportScience 214
+			Lanie
+	Tuesday:
+		10:
+			ComputerScience 313
+			Emile
+	Wednesday:
+		9:
+			DataScience 314
+			Gunther
+		11:
+			ScienceInContext 144
+			Corne
+		13:
+			SportScience 214
+			Lanie
+	Friday:
+		9:
+			ComputerScience 313
+			Emile
+		12:
+			SportScience 345
+			James
+________________________________________________________________________________________________________
+VanDerSter 2145
+	Monday:
+		8:
+			Mathematics 144
+			Tiaan
+		9:
+			Accounting 315
+			Riaan
+		11:
+			BusinessManagement 154
+			Ruan
+		12:
+			BusinessManagement 343
+			Suzanne
+		13:
+			FinancialRiskManagement 114
+			Monique
+		14:
+			Accounting 115
+			Juan
+		16:
+			ComputerScience 313
+			Emile
+	Tuesday:
+		8:
+			Mathematics 244
+			Wilbert
+		9:
+			Mathematics 144
+			Tiaan
+		10:
+			Accounting 315
+			Riaan
+		11:
+			BusinessManagement 154
+			Ruan
+		13:
+			FinancialRiskManagement 114
+			Monique
+		14:
+			ComputerScience 414
+			Matthew
+		16:
+			Accounting 115
+			Juan
+	Wednesday:
+		8:
+			Mathematics 144
+			Tiaan
+		9:
+			Accounting 315
+			Riaan
+		10:
+			Accounting 154
+			Juan
+		11:
+			BusinessManagement 154
+			Ruan
+		12:
+			ProbabiltyandStatistics 125
+			Dieter
+		14:
+			SportScience 134
+			Divan
+		15:
+			FinancialRiskManagement 114
+			Monique
+		16:
+			BusinessManagement 343
+			Suzanne
+	Thursday:
+		8:
+			Accounting 315
+			Riaan
+		9:
+			Mathematics 144
+			Tiaan
+		10:
+			BusinessManagement 154
+			Ruan
+		11:
+			ComputerScience 344
+			Bernd
+		13:
+			FinancialRiskManagement 114
+			Monique
+		15:
+			Accounting 115
+			Juan
+		16:
+			ScienceInContext 144
+			Corne
+	Friday:
+		8:
+			Mathematics 244
+			Wilbert
+		9:
+			Accounting 315
+			Riaan
+		10:
+			BusinessManagement 154
+			Ruan
+		13:
+			FinancialRiskManagement 114
+			Monique
+		14:
+			Accounting 115
+			Juan
+		15:
+			ComputerScience 414
+			Matthew
+		16:
+			BusinessManagement 343
+			Suzanne
+________________________________________________________________________________________________________
+VanDerSter 3145
+	Monday:
+		11:
+			OperationsResearch 244
+			Neil
+	Tuesday:
+		8:
+			BusinessManagement 343
+			Suzanne
+		10:
+			OperationsResearch 244
+			Neil
+	Wednesday:
+		12:
+			Accounting 115
+			Juan
+________________________________________________________________________________________________________
+Fharga 1001
+	Monday:
+		14:
+			ComputerScience 414
+			Matthew
+		16:
+			Physics 224
+			Matthew
+	Tuesday:
+		16:
+			ScienceInContext 144
+			Corne
+	Wednesday:
+		14:
+			ComputerScience 414
+			Matthew
+________________________________________________________________________________________________________
+Could not assign venue to ComputerScience 345 Friday
+Could not assign venue to DataScience 314 Monday
+Could not assign venue to AppliedMaths 314 Thursday
+Could not assign venue to OperationsResearch 244 Wednesday
+Could not assign venue to Arts 114 Monday
+Could not assign venue to Music 114 Thursday
+Could not assign venue to Music 114 Friday
+Could not assign venue to Physics 224 Tuesday
+Could not assign venue to Physics 224 Wednesday
+Could not assign venue to Physics 224 Friday
+Could not assign venue to ScienceInContext 144 Monday

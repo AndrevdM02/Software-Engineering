@@ -1,0 +1,47 @@
+JanMouton 1013
+	Monday:
+		10:
+			ComputerScience 244
+			Willem
+		12:
+			Stats 245
+			Mostert
+	Tuesday:
+		9:
+			ComputerScience 244
+			Willem
+	Wednesday:
+		9:
+			ComputerScience 244
+			Willem
+		10:
+			Stats 245
+			Mostert
+	Thursday:
+		8:
+			ComputerScience 244
+			Willem
+		11:
+			Stats 246
+			Ace
+	Friday:
+		8:
+			ComputerScience 244
+			Willem
+		15:
+			Stats 246
+			Ace
+________________________________________________________________________________________________________
+JanMouton 2010
+	Venue has not been assigned any lecture.
+________________________________________________________________________________________________________
+MS 1005
+	Venue has not been assigned any lecture.
+________________________________________________________________________________________________________
+NargaH 1001
+	Monday:
+		13:
+			ComputerScience 345
+			Lynette
+________________________________________________________________________________________________________
+Could not assign venue to ComputerScience 345 Friday

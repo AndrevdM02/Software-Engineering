@@ -1,0 +1,40 @@
+Willem ComputerScience BSC_compsci 244 100 Monday 10 11 12 Tuesday 9 13 14 Wednesday 9 15 Thursday 8 Friday 8
+Mostert MathStats EMS_maths 245 40 Monday 8 10 12 Tuesday Wednesday 9 10 11 12 13 Thursday Friday
+Ace MathStats EMS_maths 246 60 Monday Tuesday Wednesday Thursday 11 12 Friday 15
+Lynette ComputerScience BSC_compsci 345 50 Monday 11 13 Tuesday Wednesday Thursday Friday 8
+Bernd ComputerScience BSC_compsci 344 200 Monday 8 9 12 13 15 Tuesday 11 12 13 14 15 16 Wednesday 10 14 15 Thursday 11 12 13 Friday 8 9 10
+Lynette ComputerScience BSC_compsci 214 101 Monday 10 15 16 Tuesday 8 9 10 11 12 14 15 Wednesday 8 10 12 14 16 Thursday 10 15 Friday 12 13 14
+Louis Arts ArtsSciences 144 15 Monday 10 11 16 Tuesday 8 9 10 15 Wednesday 8 9 10 12 13 14 Thursday 8 9 15 16 Friday 8 9 10 14 15 16
+Dirk Music ArtsSciences 154 22 Monday 8 9 10 13 14 Tuesday 8 9 16 Wednesday 8 9 10 11 Thursday 15 16 Friday 12 13 14
+Matthew Physics BSC 244 59 Monday 14 15 16 Tuesday 12 14 Wednesday 12 16 Thursday 10 11 14 15 16 Friday 8 9 10 11 15 16
+Corne ScienceInContext BSC 114 45 Monday 15 16 Tuesday 10 12 14 16 Wednesday 9 11 13 15 Thursday 8 10 11 16 Friday 11 12 13
+Suzanne BusinessManagement EMS 315 125 Monday 10 11 12 15 16 Tuesday 8 9 10 12 Wednesday 11 13 16 Thursday 11 14 15 Friday 15 16
+Juan Accounting EMS 154 200 Monday 12 13 14 15 16 Tuesday 10 11 15 16 Wednesday 10 11 12 16 Thursday 9 10 15 16 Friday 10 11 14
+Gunther DataScience EMS_maths 141 50 Monday 10 15 16 Tuesday 11 12 16 Wednesday 8 9 10 11 12 13 Thursday 14 15 16 Friday 10 12 14 16
+Matthew ComputerScience BSC_compsci 343 100 Monday 11 12 14 15 Tuesday 14 15 16 Wednesday 14 15 16 Thursday 14 15 16 Friday 14 15 16
+Liam AppliedMaths BSC 341 50 Monday 8 9 12 15 Tuesday 8 9 10 11 14 Wednesday 8 9 10 16 Thursday 8 9 10 12 13 Friday 8 9 10 11 15
+Neil OperationsResearch EMS_maths 214 106 Monday 10 11 12 13 15 Tuesday 8 9 10 15 16 Wednesday 14 15 16 Thursday 8 9 11 12 16 Friday 8 11 12 13 15
+Wilbert Mathematics EMS_maths 244 200 Monday 8 9 11 14 15 16 Tuesday 8 9 10 15 16 Wednesday 8 9 14 15 16 Thursday 8 9 15 16 Friday 8 9 10 11 12
+Tiaan Mathematics EMS_maths 144 210 Monday 8 9 10 11 12 13 15 16 Tuesday 8 9 10 15 16 Wednesday 8 9 15 16 Thursday 8 9 10 15 16 Friday 8 9 10 14 15 16
+Dieter ProbabiltyandStatistics EMS_maths 125 144 Monday 8 9 10 15 16 Tuesday 8 9 10 15 16 Wednesday 10 11 12 13 14 Thursday 10 11 12 15 16 Friday 8 9 10 14
+Emile ComputerScience BSC_compsci 313 80 Monday 10 15 16 Tuesday 10 11 15 16 Wednesday 8 9 10 14 15 Thursday 15 16  Friday 8 9 10
+Sharien Music ArtsSciences 278 15 Monday 8 9 10 11 12 13 15 16 Tuesday 8 9 10 11 12 13 15 16 Wednesday 8 9 10 11 12 13 15 16 Thursday 8 9 10 11 12 13 15 16 Friday 8 9 10 11 12 13 15 16
+Lynnette Music ArtsSciences 345 16 Monday 8 9 10 11 12 13 15 16 Tuesday 8 9 10 11 12 13 15 16 Wednesday 8 9 10 11 12 13 15 16 Thursday 8 9 10 11 12 13 15 16 Friday 8 9 10 11 12 13 15 16
+Riaan Accounting EMS 315 216 Monday 8 9 10 11 12 Tuesday 8 9 10 11 12 Wednesday 8 9 10 11 12 Thursday 8 9 10 11 12 Friday 8 9 10 11 12
+Divan SportScience BSC 134 112 Monday 8 10 12 14 16 Tuesday 9 11 13 15 Wednesday 8 10 12 14 16 Thursday 9 11 13 15 Friday 8 10 12 14 16
+Ruan BusinessManagement EMS 154 175 Monday 8 9 10 11 12 13 15 16 Tuesday 8 9 10 11 12 13 15 16 Wednesday 8 9 10 11 12 13 15 16 Thursday 8 9 10 11 12 13 15 16 Friday 8 9 10 11 12 13 15 16
+Monique FinancialRiskManagement EMS 114 214 Monday 13 14 15 16 Tuesday 13 14 15 16 Wednesday 13 14 15 16 Thursday 13 14 15 16 Friday 13 14 15 16
+James SportScience BSC 345 67 Monday 8 9 10 11 12 Tuesday 8 9 10 11 12 Wednesday 8 9 10 11 12 Thursday 8 9 10 11 12 Friday 8 9 10 11 12
+Lanie SportScience BSC 214 89 Monday 13 14 15 16 Tuesday 13 14 15 16 Wednesday 13 14 15 16 Thursday 13 14 15 16 Friday 13 14 15 16
+Suzanne BusinessManagement EMS 343 105 Monday 10 11 12 15 16 Tuesday 8 9 10 12 Wednesday 11 13 16 Thursday 11 14 15 Friday 15 16
+Juan Accounting EMS 115 200 Monday 12 13 14 15 16 Tuesday 10 11 15 16 Wednesday 10 11 12 16 Thursday 9 10 15 16 Friday 10 11 14
+Gunther DataScience EMS_maths 314 46 Monday 10 15 16 Tuesday 11 12 16 Wednesday 8 9 10 11 12 13 Thursday 14 15 16 Friday 10 12 14 16
+Matthew ComputerScience BSC_compsci 414 65 Monday 11 12 14 15 Tuesday 14 15 16 Wednesday 14 15 16 Thursday 14 15 16 Friday 14 15 16
+Liam AppliedMaths BSC 314 50 Monday 8 9 12 15 Tuesday 8 9 10 11 14 Wednesday 8 9 10 16 Thursday 8 9 10 12 13 Friday 8 9 10 11 15
+Neil OperationsResearch EMS_maths 244 106 Monday 10 11 12 13 15 Tuesday 8 9 10 15 16 Wednesday 14 15 16 Thursday 8 9 11 12 16 Friday 8 11 12 13 15
+Sharien Music ArtsSciences 218 15 Monday 8 9 10 11 12 13 15 16 Tuesday 8 9 10 11 12 13 15 16 Wednesday 8 9 10 11 12 13 15 16 Thursday 8 9 10 11 12 13 15 16 Friday 8 9 10 11 12 13 15 16
+Lynnette Music ArtsSciences 315 16 Monday 8 9 10 11 12 13 15 16 Tuesday 8 9 10 11 12 13 15 16 Wednesday 8 9 10 11 12 13 15 16 Thursday 8 9 10 11 12 13 15 16 Friday 8 9 10 11 12 13 15 16
+Louis Arts ArtsSciences 114 15 Monday 10 11 16 Tuesday 8 9 10 15 Wednesday 8 9 10 12 13 14 Thursday 8 9 15 16 Friday 8 9 10 14 15 16
+Dirk Music ArtsSciences 114 22 Monday 8 9 10 13 14 Tuesday 8 9 16 Wednesday 8 9 10 11 Thursday 15 16 Friday 12 13 14
+Matthew Physics BSC 224 59 Monday 14 15 16 Tuesday 12 14 Wednesday 12 16 Thursday 10 11 14 15 16 Friday 8 9 10 11 15 16
+Corne ScienceInContext BSC 144 45 Monday 15 16 Tuesday 10 12 14 16 Wednesday 9 11 13 15 Thursday 8 10 11 16 Friday 11 12 13

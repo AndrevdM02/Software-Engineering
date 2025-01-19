@@ -1,0 +1,17 @@
+/home/andre/RW344/Adrastea-cs344/website/build/linux/x64/debug/bundle/web_test_app
+/home/andre/RW344/Adrastea-cs344/website/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/andre/RW344/Adrastea-cs344/website/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/andre/RW344/Adrastea-cs344/website/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/andre/RW344/Adrastea-cs344/website/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/andre/RW344/Adrastea-cs344/website/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/andre/RW344/Adrastea-cs344/website/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/andre/RW344/Adrastea-cs344/website/build/linux/x64/debug/bundle/data/flutter_assets/assets/icons/signup.svg
+/home/andre/RW344/Adrastea-cs344/website/build/linux/x64/debug/bundle/data/flutter_assets/assets/icons/chat.svg
+/home/andre/RW344/Adrastea-cs344/website/build/linux/x64/debug/bundle/data/flutter_assets/assets/icons/login.svg
+/home/andre/RW344/Adrastea-cs344/website/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/Empty.png
+/home/andre/RW344/Adrastea-cs344/website/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/andre/RW344/Adrastea-cs344/website/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/andre/RW344/Adrastea-cs344/website/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/andre/RW344/Adrastea-cs344/website/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/andre/RW344/Adrastea-cs344/website/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/andre/RW344/Adrastea-cs344/website/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
